@@ -29,7 +29,7 @@
  - [everyone](github.com/yiiu/everyone)：一个使用Vue.js制作的antd设计规范的组件库。阅读了element等vue.js组件库框架，对于组件化和一些组件拆分和接口设计和组件的制作有了一定的了解和深入。
   
 
- - [fishy](github.com/fishying)：**关于后端**：后端使用的是node.js，用的框架是express，数据库使用的是mongodb，使用的是node.js的mongodb*ODB*[mongoose](http://mongoosejs.com/)，使用restful设计的api。
+ - [fishy](github.com/fishying)：后端使用的是node.js，用的框架是express，数据库使用的是mongodb，使用的是node.js的mongodb*ODB*[mongoose](http://mongoosejs.com/)，使用restful设计的api。后台管理系统使用的react.js的单页应用，组件均为自己写的。
  
  - [eel](github.com/yiiu/eel)：阅读Vue.js源码学习后，制作的一个简单的mvvm前端框架。
  
@@ -45,7 +45,10 @@
 
 ### 厦门涂鸦王国 -前端工程师（ 2016年7月 ~ 2017年4月 ）
 
-      在公司主要负责移动端和pc端的改版更新和微信小程序的制作，一些活动页面的制作。
+> 在公司主要负责移动端和pc端的改版更新和微信小程序的制作，一些活动页面的制作。
+      
+ 1. 网站pc端改版多次，使用响应式布局，less编写css。
+ 2. 移动端页面使用vue.js
 
 
 # 技能清单
