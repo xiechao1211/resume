@@ -1,7 +1,8 @@
 # 个人信息
 
  - 胡飞宇
- - 专科/厦门城市职业学院
+ - 专科
+ - 年龄：20岁
  - 工作年限：1年
  - 技术博客：http://blog.wanan.me
  - Github: http://github.com/yiiu
