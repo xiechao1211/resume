@@ -1,14 +1,3 @@
-# 简历
-
-# 联系方式
-
-
-- 手机：18850343968
-- Email：1103307414@qq.com
-- QQ/微信号：4049310
-
----
-
 # 个人信息
 
  - 胡飞宇
@@ -23,11 +12,19 @@
 
 ---
 
+# 联系方式
+
+
+- 手机：18850343968
+- Email：1103307414@qq.com
+- QQ/微信号：4049310
+
+---
+
 
 # 开源项目和作品
 
  - [everyone](github.com/yiiu/everyone)：一个使用Vue.js制作的antd设计规范的组件库。阅读了element等vue.js组件库框架，对于组件化和一些组件拆分和接口设计和组件的制作有了一定的了解和深入。
-  
 
  - [fishy](github.com/fishying)：后端使用的是node.js，用的框架是express，数据库使用的是mongodb，使用的是node.js的mongodb*ODB*[mongoose](http://mongoosejs.com/)，使用restful设计的api。后台管理系统使用的react.js的单页应用，组件均为自己写的。
  
@@ -62,6 +59,12 @@
 - 其他技术：ES2015、SCSS、LESS
 - 后端相关：NodeJS、Express、MongoDB
 
+
+---
+
+## 自我评价
+
+> 本人对前端方面非常感兴趣，喜欢学习新技术，经常浏览掘金，v2ex等技术网站，喜爱开源项目，github活跃用户。
 
 ---
 
